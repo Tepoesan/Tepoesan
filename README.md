@@ -20,7 +20,7 @@ Location   : France
 Status     : Always learning
 ```
 
-### `tepoe@localhost:~$ cat stack.txt`
+### `tepoe@localhost:~$ black bat stack.txt`
 
 ```text
 [ DEVELOPMENT ]
