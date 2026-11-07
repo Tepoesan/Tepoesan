@@ -44,7 +44,7 @@ projects/
 - **[MIETTES](https://github.com/Tepoesan/MIETTES)** — Creative WordPress project, custom animations and Docker.
 - **[pfSense Firewall Lab](https://github.com/Tepoesan/pfsense-firewall-lab)** — Hands-on network security lab.
 
-### `tepoe@localhost:~$ cat current_focus.txt`
+### `tepoe@localhost:~$ black bat current_focus.txt`
 
 ```text
 [01] Build practical Blue Team / SOC projects
