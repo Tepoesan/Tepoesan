@@ -10,16 +10,16 @@
 
 ---
 
-![Linux terminal: whoami](assets/terminal-1.svg)
+![Linux terminal: whoami](assets/terminal-v3-1.svg)
 
-![Linux terminal: cat stack.txt](assets/terminal-2.svg)
+![Linux terminal: cat stack.txt](assets/terminal-v3-2.svg)
 
-![Linux terminal: tree projects](assets/terminal-3.svg)
+![Linux terminal: tree projects](assets/terminal-v3-3.svg)
 
 - **[MIETTES](https://github.com/Tepoesan/MIETTES)** — Creative WordPress project, custom animations and Docker.
 - **[pfSense Firewall Lab](https://github.com/Tepoesan/pfsense-firewall-lab)** — Hands-on network security lab.
 
-![Linux terminal: current focus](assets/terminal-4.svg)
+![Linux terminal: current focus](assets/terminal-v3-4.svg)
 
 ---
 
