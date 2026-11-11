@@ -2,9 +2,9 @@
 
 ![TEPOE terminal banner](assets/terminal-banner.svg)
 
-`WEB DEVELOPER` · `DEFENSIVE SECURITY` · `FRANCE`
+`FULL STACK DEVELOPMENT` · `APPSEC / OFFENSIVE SECURITY` · `FRANCE`
 
-*Building for the web. Learning to defend it.*
+*Building. Breaking ethically. Securing.*
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ![Linux terminal: journey log](assets/terminal-journey.svg)
 
-![Linux terminal: cat stack.txt](assets/terminal-v3-2.svg)
+![Linux terminal: black bat stack.txt](assets/terminal-v3-2.svg)
 
 ![Linux terminal: tree projects](assets/terminal-v3-3.svg)
 
-- **[MIETTES](https://github.com/Tepoesan/MIETTES)** — Creative WordPress project, custom animations and Docker.
+- **[MIETTES](https://github.com/Tepoesan/MIETTES)** — WordPress / Docker project with custom development and Gitleaks security checks.
 - **[pfSense Firewall Lab](https://github.com/Tepoesan/pfsense-firewall-lab)** — Hands-on network security lab.
 
 ![Linux terminal: current focus](assets/terminal-v3-4.svg)
