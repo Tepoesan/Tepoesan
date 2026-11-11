@@ -12,6 +12,8 @@
 
 ![Linux terminal: whoami](assets/terminal-v3-1.svg)
 
+![Linux terminal: journey log](assets/terminal-journey.svg)
+
 ![Linux terminal: cat stack.txt](assets/terminal-v3-2.svg)
 
 ![Linux terminal: tree projects](assets/terminal-v3-3.svg)
