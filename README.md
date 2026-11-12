@@ -1,6 +1,6 @@
 <div align="center">
 
-![TEPOE terminal banner](assets/terminal-banner.svg)
+![SHAEITH terminal banner](assets/shaeith-banner.svg)
 
 `FULL STACK DEVELOPMENT` · `APPSEC / OFFENSIVE SECURITY` · `FRANCE`
 
@@ -10,18 +10,18 @@
 
 ---
 
-![Linux terminal: whoami](assets/terminal-v3-1.svg)
+![Linux terminal: whoami](assets/shaeith-whoami.svg)
 
-![Linux terminal: journey log](assets/terminal-journey.svg)
+![Linux terminal: journey log](assets/shaeith-journey.svg)
 
-![Linux terminal: black bat stack.txt](assets/terminal-stack-appsec.svg)
+![Linux terminal: black bat stack.txt](assets/shaeith-stack.svg)
 
-![Linux terminal: tree projects](assets/terminal-v3-3.svg)
+![Linux terminal: tree projects](assets/shaeith-projects.svg)
 
 - **[MIETTES](https://github.com/Tepoesan/MIETTES)** — WordPress / Docker project with custom development and Gitleaks security checks.
 - **[pfSense Firewall Lab](https://github.com/Tepoesan/pfsense-firewall-lab)** — Hands-on network security lab.
 
-![Linux terminal: current focus](assets/terminal-focus-appsec.svg)
+![Linux terminal: current focus](assets/shaeith-focus.svg)
 
 ---
 
